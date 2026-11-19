@@ -1,0 +1,10 @@
+*.pyc
+
+# Added by Auto-Setup
+node_modules/
+.env
+.env.*
+*.env
+dist/
+build/
+
